@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.a617e044.chunk.css",
-    "main.js": "/static/js/main.635e53b3.chunk.js",
-    "main.js.map": "/static/js/main.635e53b3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5c9e558a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5c9e558a.js.map",
-    "static/js/2.a075b580.chunk.js": "/static/js/2.a075b580.chunk.js",
-    "static/js/2.a075b580.chunk.js.map": "/static/js/2.a075b580.chunk.js.map",
-    "static/js/3.2f1e8d96.chunk.js": "/static/js/3.2f1e8d96.chunk.js",
-    "static/js/3.2f1e8d96.chunk.js.map": "/static/js/3.2f1e8d96.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.a075b580.chunk.js.LICENSE.txt": "/static/js/2.a075b580.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/microworldgames/static/css/main.a617e044.chunk.css",
+    "main.js": "/microworldgames/static/js/main.635e53b3.chunk.js",
+    "main.js.map": "/microworldgames/static/js/main.635e53b3.chunk.js.map",
+    "runtime-main.js": "/microworldgames/static/js/runtime-main.2a4c0f1c.js",
+    "runtime-main.js.map": "/microworldgames/static/js/runtime-main.2a4c0f1c.js.map",
+    "static/js/2.2dddd373.chunk.js": "/microworldgames/static/js/2.2dddd373.chunk.js",
+    "static/js/2.2dddd373.chunk.js.map": "/microworldgames/static/js/2.2dddd373.chunk.js.map",
+    "static/js/3.2f1e8d96.chunk.js": "/microworldgames/static/js/3.2f1e8d96.chunk.js",
+    "static/js/3.2f1e8d96.chunk.js.map": "/microworldgames/static/js/3.2f1e8d96.chunk.js.map",
+    "index.html": "/microworldgames/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/microworldgames/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2dddd373.chunk.js.LICENSE.txt": "/microworldgames/static/js/2.2dddd373.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/microworldgames/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c9e558a.js",
-    "static/js/2.a075b580.chunk.js",
+    "static/js/runtime-main.2a4c0f1c.js",
+    "static/js/2.2dddd373.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.635e53b3.chunk.js"
   ]
