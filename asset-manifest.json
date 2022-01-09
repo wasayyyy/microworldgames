@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/microworldgames/static/css/main.864384a7.chunk.css",
-    "main.js": "/microworldgames/static/js/main.5dba5cd0.chunk.js",
-    "main.js.map": "/microworldgames/static/js/main.5dba5cd0.chunk.js.map",
+    "main.js": "/microworldgames/static/js/main.a1f8fd0c.chunk.js",
+    "main.js.map": "/microworldgames/static/js/main.a1f8fd0c.chunk.js.map",
     "runtime-main.js": "/microworldgames/static/js/runtime-main.d43bfa5e.js",
     "runtime-main.js.map": "/microworldgames/static/js/runtime-main.d43bfa5e.js.map",
     "static/css/2.0a9ec390.chunk.css": "/microworldgames/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.cdba18a8.chunk.js": "/microworldgames/static/js/2.cdba18a8.chunk.js",
-    "static/js/2.cdba18a8.chunk.js.map": "/microworldgames/static/js/2.cdba18a8.chunk.js.map",
+    "static/js/2.cdee1ab5.chunk.js": "/microworldgames/static/js/2.cdee1ab5.chunk.js",
+    "static/js/2.cdee1ab5.chunk.js.map": "/microworldgames/static/js/2.cdee1ab5.chunk.js.map",
     "static/js/3.35d0f638.chunk.js": "/microworldgames/static/js/3.35d0f638.chunk.js",
     "static/js/3.35d0f638.chunk.js.map": "/microworldgames/static/js/3.35d0f638.chunk.js.map",
     "index.html": "/microworldgames/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/microworldgames/static/css/2.0a9ec390.chunk.css.map",
     "static/css/main.864384a7.chunk.css.map": "/microworldgames/static/css/main.864384a7.chunk.css.map",
-    "static/js/2.cdba18a8.chunk.js.LICENSE.txt": "/microworldgames/static/js/2.cdba18a8.chunk.js.LICENSE.txt",
+    "static/js/2.cdee1ab5.chunk.js.LICENSE.txt": "/microworldgames/static/js/2.cdee1ab5.chunk.js.LICENSE.txt",
     "static/media/style.css": "/microworldgames/static/media/bg.915df9a9.jpg",
     "static/media/xrp.28f9efb8.jpg": "/microworldgames/static/media/xrp.28f9efb8.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d43bfa5e.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.cdba18a8.chunk.js",
+    "static/js/2.cdee1ab5.chunk.js",
     "static/css/main.864384a7.chunk.css",
-    "static/js/main.5dba5cd0.chunk.js"
+    "static/js/main.a1f8fd0c.chunk.js"
   ]
 }
