@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/microworldgames/static/css/main.038f93c9.chunk.css",
-    "main.js": "/microworldgames/static/js/main.9d649f02.chunk.js",
-    "main.js.map": "/microworldgames/static/js/main.9d649f02.chunk.js.map",
-    "runtime-main.js": "/microworldgames/static/js/runtime-main.3020d98a.js",
-    "runtime-main.js.map": "/microworldgames/static/js/runtime-main.3020d98a.js.map",
+    "main.css": "/microworldgames/static/css/main.daa7b200.chunk.css",
+    "main.js": "/microworldgames/static/js/main.ba274f4f.chunk.js",
+    "main.js.map": "/microworldgames/static/js/main.ba274f4f.chunk.js.map",
+    "runtime-main.js": "/microworldgames/static/js/runtime-main.0c4f0543.js",
+    "runtime-main.js.map": "/microworldgames/static/js/runtime-main.0c4f0543.js.map",
     "static/css/2.0a9ec390.chunk.css": "/microworldgames/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.5c25afce.chunk.js": "/microworldgames/static/js/2.5c25afce.chunk.js",
-    "static/js/2.5c25afce.chunk.js.map": "/microworldgames/static/js/2.5c25afce.chunk.js.map",
-    "static/js/3.e8fb5f5e.chunk.js": "/microworldgames/static/js/3.e8fb5f5e.chunk.js",
-    "static/js/3.e8fb5f5e.chunk.js.map": "/microworldgames/static/js/3.e8fb5f5e.chunk.js.map",
+    "static/js/2.182cd7ef.chunk.js": "/microworldgames/static/js/2.182cd7ef.chunk.js",
+    "static/js/2.182cd7ef.chunk.js.map": "/microworldgames/static/js/2.182cd7ef.chunk.js.map",
+    "static/js/3.8222e552.chunk.js": "/microworldgames/static/js/3.8222e552.chunk.js",
+    "static/js/3.8222e552.chunk.js.map": "/microworldgames/static/js/3.8222e552.chunk.js.map",
     "index.html": "/microworldgames/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/microworldgames/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.038f93c9.chunk.css.map": "/microworldgames/static/css/main.038f93c9.chunk.css.map",
-    "static/js/2.5c25afce.chunk.js.LICENSE.txt": "/microworldgames/static/js/2.5c25afce.chunk.js.LICENSE.txt",
-    "static/js/main.9d649f02.chunk.js.LICENSE.txt": "/microworldgames/static/js/main.9d649f02.chunk.js.LICENSE.txt",
+    "static/css/main.daa7b200.chunk.css.map": "/microworldgames/static/css/main.daa7b200.chunk.css.map",
+    "static/js/2.182cd7ef.chunk.js.LICENSE.txt": "/microworldgames/static/js/2.182cd7ef.chunk.js.LICENSE.txt",
+    "static/js/main.ba274f4f.chunk.js.LICENSE.txt": "/microworldgames/static/js/main.ba274f4f.chunk.js.LICENSE.txt",
     "static/media/style.css": "/microworldgames/static/media/bg.915df9a9.jpg",
     "static/media/xrp.28f9efb8.jpg": "/microworldgames/static/media/xrp.28f9efb8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3020d98a.js",
+    "static/js/runtime-main.0c4f0543.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.5c25afce.chunk.js",
-    "static/css/main.038f93c9.chunk.css",
-    "static/js/main.9d649f02.chunk.js"
+    "static/js/2.182cd7ef.chunk.js",
+    "static/css/main.daa7b200.chunk.css",
+    "static/js/main.ba274f4f.chunk.js"
   ]
 }
